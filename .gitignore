@@ -10,7 +10,12 @@ output/
 testing/Sampah/
 data/*
 datasets/*
+*.dat
+*.key
 
+*.mp4
+*.zip
+*.png
 *.wav
 
 # C extensions
