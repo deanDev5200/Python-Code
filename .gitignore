@@ -12,6 +12,8 @@ data/*
 datasets/*
 *.dat
 *.key
+*.pth
+*.xml
 
 *.mp4
 *.zip
