@@ -9,7 +9,9 @@ output/
 .vs/
 testing/Sampah/
 data/*
+images/*
 datasets/*
+runs/
 *.dat
 *.key
 *.pth
